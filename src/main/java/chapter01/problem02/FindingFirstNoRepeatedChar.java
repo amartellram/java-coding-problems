@@ -1,10 +1,9 @@
-package chapter01;
+package chapter01.problem02;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.function.Function;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 public class FindingFirstNoRepeatedChar {
