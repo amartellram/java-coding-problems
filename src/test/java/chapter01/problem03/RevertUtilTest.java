@@ -27,7 +27,7 @@ class RevertUtilTest {
     void reverseWords() {
         String reversedWord = stringUtils.reverseWords(word);
 
-        Assertions.assertEquals(18, reversedWord.length());
+        Assertions.assertEquals(word.length(), reversedWord.length());
         Assertions.assertEquals("duolC TNU pmactooB", reversedWord);
     }
 
