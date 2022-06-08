@@ -1,4 +1,4 @@
-package chapter01.problem02;
+package stringNumbersMath.problem02;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

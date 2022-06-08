@@ -1,4 +1,4 @@
-package chapter01.problem03;
+package stringNumbersMath.problem03;
 
 public class ReverseLettersAndWords {
 

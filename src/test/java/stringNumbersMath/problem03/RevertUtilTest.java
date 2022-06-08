@@ -1,4 +1,4 @@
-package chapter01.problem03;
+package stringNumbersMath.problem03;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;

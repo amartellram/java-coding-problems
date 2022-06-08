@@ -1,4 +1,4 @@
-package chapter01.problem04;
+package stringNumbersMath.problem04;
 
 public class StringChecker {
 
